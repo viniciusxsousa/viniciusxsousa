@@ -14,7 +14,7 @@
 ##
 <div>
   <a href="https://www.linkedin.com/in/viniciusxsousa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.vscd.com.br" targe="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://www.vscd.com.br" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   
   ![Snake animation](https://github.com/viniciusxsousa/viniciusxsousa/blob/output/github-contribution-grid-snake.svg)
 </div>  
