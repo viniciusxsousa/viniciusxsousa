@@ -1,7 +1,7 @@
 ## Bem Vindo ao meu perfil
-<div align="center">
+<div align="left">
   <a href="https://github.com/viniciusxsousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusxsousa&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_rank=true"/>
+  <img height="180em" width="600px" src="https://github-readme-stats.vercel.app/api?username=viniciusxsousa&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_rank=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusxsousa&layout=compact&langs_count=7&theme=vue"/>
 </div>
 <div style="display: inline_block"><br>
