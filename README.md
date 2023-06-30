@@ -12,8 +12,8 @@
   <a href="https://www.linkedin.com/in/viniciusxsousa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
-  <a href="http://vscd.com.br/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfólio&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="25" alt="devto logo"  />
+  <a href="https://vscd.com.br/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="25" alt="devto logo"  />
   </a>
 </div>
 
